@@ -2,7 +2,7 @@
 This is Youtube App using React Native
 HomePage: [HomePage](https://app.phuongmychi.vn)
 [![Youtube App using React Native](https://app.phuongmychi.vn/assets/images/iphone.png?raw=true)](https://app.phuongmychi.vn)
-[![Youtube App using React Native](https://app.phuongmychi.vn/assets/images/screenshot/02.jpg?raw=true)](https://app.phuongmychi.vn)
+[![Youtube App using React Native](https://app.phuongmychi.vn/assets/images/iphone-group.png?raw=true)](https://app.phuongmychi.vn)
 
 
 # License
