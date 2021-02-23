@@ -9,7 +9,7 @@ This is Youtube App using React Native
 [![Youtube App using React Native](https://app.phuongmychi.vn/assets/images/iphone.png?raw=true)](https://app.phuongmychi.vn)
 [![Youtube App using React Native](https://app.phuongmychi.vn/assets/images/iphone-group.png?raw=true)](https://app.phuongmychi.vn)
 
-
+##### For support : [developer@phuongmychi.vn](developer@phuongmychi.vn)
 # License
 Copyright (c) 2021 [Phuong My Chi Music Entertainment Vietnam](https://phuongmychi.vn)
 
